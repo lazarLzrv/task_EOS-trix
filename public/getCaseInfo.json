@@ -1,0 +1,164 @@
+[
+    {
+        "workUnitId": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+        "package": "Случай 20",
+        "debtor": "банк 1",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4000,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 6000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "eafc6355-d030-4533-be8c-cf04337f4a0c",
+        "package": "Случай 21",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "8b8c16c5-fe74-468b-8bdf-a12f4793cfa2",
+        "package": "Случай 22",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+        "package": "Случай 23",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "eafc6355-d030-4533-be8c-cf04337f4a0c",
+        "package": "Случай 24",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "8b8c16c5-fe74-468b-8bdf-a12f4793cfa2",
+        "package": "Случай 25",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+        "package": "Случай 26",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "eafc6355-d030-4533-be8c-cf04337f4a0c",
+        "package": "Случай 27",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    },
+    {
+        "workUnitId": "8b8c16c5-fe74-468b-8bdf-a12f4793cfa2",
+        "package": "Случай 28",
+        "debtor": "банк 2",
+        "date": "05/06/2016",
+        "boughtAmount": {
+            "amount": 4300,
+            "currency": "BGN"
+        },
+        "paidAmount": {
+            "amount": 500,
+            "currency": "BGN"
+        },
+        "dueAmount": {
+            "amount": 7000,
+            "currency": "BGN"
+        }
+    }
+]

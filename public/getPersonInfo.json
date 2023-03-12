@@ -1,0 +1,67 @@
+{
+    "addresses": [
+        {
+            "id": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+            "settlementName": "ПРОВАДИЯ",
+            "zipCode": "9201",
+            "address": "Ж.К.СЕВon RpL25 uvog tiJ3 rUo72",
+            "dateAdded": "2011-06-07T13:39:52+03:00"
+        },
+        {
+            "id": "eafc6355-d030-4533-be8c-cf04337f4a0c",
+            "contactActivityTypeId": null,
+            "settlementName": "МАЛО СЕЛО",
+            "zipCode": "2636",
+            "address": "ул.НАЙ НАЙ ПОСЛЕДНАТА"
+        },
+        {
+            "id": "8b8c16c5-fe74-468b-8bdf-a12f4793cfa2",
+            "contactActivityTypeId": null,
+            "settlementName": "ГОЛЕМО СЕЛО",
+            "zipCode": "2636",
+            "address": "ул.Първа 6"
+        },
+        {
+            "id": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+            "settlementName": "Пловдив",
+            "zipCode": "9201",
+            "address": "Ж.К.СЕВon RpL25 uvog tiJ3 rUo72",
+            "dateAdded": "2011-06-07T13:39:52+03:00"
+        },
+        {
+            "id": "eafc6355-d030-4533-be8c-cf04337f4a0c",
+            "contactActivityTypeId": null,
+            "settlementName": "София",
+            "zipCode": "2636",
+            "address": "Ж.К.СЕВon RpL25 uvog tiJ3 rUo72"
+        },
+        {
+            "id": "8b8c16c5-fe74-468b-8bdf-a12f4793cfa2",
+            "contactActivityTypeId": null,
+            "settlementName": "Варна",
+            "zipCode": "2636",
+            "address": "ул.НАЙ НАЙ ПОСЛЕДНАТА"
+        },
+        {
+            "id": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+            "settlementName": "Бургас",
+            "zipCode": "9201",
+            "address": "ул.Първа 6",
+            "dateAdded": "2011-06-07T13:39:52+03:00"
+        },
+        {
+            "id": "eafc6355-d030-4533-be8c-cf04337f4a0c",
+            "contactActivityTypeId": null,
+            "settlementName": "Русе",
+            "zipCode": "2636",
+            "address": "ул.Първа 6"
+        },
+        {
+            "id": "8b8c16c5-fe74-468b-8bdf-a12f4793cfa2",
+            "contactActivityTypeId": null,
+            "settlementName": "Велико Търново",
+            "zipCode": "2636",
+            "address": "ул.НАЙ НАЙ ПОСЛЕДНАТА"
+        }
+    ]
+}

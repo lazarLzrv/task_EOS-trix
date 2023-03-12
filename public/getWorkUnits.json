@@ -1,0 +1,39 @@
+[
+    {
+        "workUnitId": "d8f50e9c-218d-4877-9504-d01106f9a75b",
+        "entityType": "57456a54-0d13-4807-ad3b-b6b78f25ec5b",
+        "status": "2de59b89-1113-41fe-82e0-fe3444699c78",
+        "key": "0000557",
+        "date": "4/4/2016",
+        "type": "fd7f7073-e0f2-425e-9e77-e196c113cbd9",
+        "court": "ЧСИ - 851",
+        "bailiffName": "Съдия изпълнител",
+        "debtors": [
+            {
+                "workUnitId": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+                "name": "Иван Иванов"
+            },
+            {
+                "workUnitId": "eafc6355-d030-4533-be8c-cf04337f4a0c",
+                "name": "Георги Георгиев"
+            },
+            {
+                "workUnitId": "8b8c16c5-fe74-468b-8bdf-a12f4793cfa2",
+                "name": "Петър Петров"
+            }
+        ],
+        "otherPeople": [
+            {
+                "workUnitId": "9a85c3ab-cd89-47f7-bb22-72b6044b2421",
+                "name": "Лице 13"
+            }
+        ],
+        "cases": [
+            {
+                "workUnitId": "8eb6fe98-b9f3-4998-9280-0862b26c4b3c",
+                "package": "Случай 20",
+                "status": 0
+            }
+        ]
+    }
+]
